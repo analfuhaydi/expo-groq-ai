@@ -1,0 +1,22 @@
+{
+  "name": "expo-groq-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.15.23",
+    "typescript": "^5.8.3"
+  },
+  "dependencies": {
+    "groq-sdk": "^0.22.0",
+    "zod": "^3.25.32"
+  }
+}
